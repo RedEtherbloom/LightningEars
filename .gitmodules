@@ -1,0 +1,3 @@
+[submodule "libraries/light_ws2812"]
+	path = libraries/light_ws2812
+	url = https://github.com/cpldcpu/light_ws2812.git
